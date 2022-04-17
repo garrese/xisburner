@@ -1,0 +1,9 @@
+{
+    "bitburner.authToken": "5L2wtb7U10fCbCkeqfipocHgysrK7B3yY/AdsJWteoA/SJ4ukMRrqP6pbxgRHUSe",
+    "bitburner.fileWatcher.enable": true,
+    "bitburner.scriptRoot": "./home/",
+    "bitburner.showFileWatcherEnabledNotification": false,
+    "bitburner.showPushSuccessNotification": false,
+    "workbench.preferredDarkColorTheme": "Default Dark+",
+    "workbench.preferredLightColorTheme": "Default Dark+"
+}

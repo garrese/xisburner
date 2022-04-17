@@ -1,0 +1,14 @@
+{
+  "name": "xisburner",
+  "author": "XisecSpain",
+  "description": "XisecSpain code for Bitburner",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrese/xisburner.git"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
